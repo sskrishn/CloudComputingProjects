@@ -1,0 +1,862 @@
+(ceme	1
+00	1
+013	1
+1	3
+12 PA	2
+12 Pa	1
+15 PA	1
+15 Pa	1
+16M	1
+18 WH	2
+18 Wh	1
+1S	1
+2 DOO	1
+2 TON	1
+2 WHE	1
+2 dr sedan	73
+2- to	1
+2TON	1
+3 WHE	1
+3-Door	112
+3-Whe	1
+315 e	1
+38AB-	1
+3D	64
+3DC-	1
+4 RUN	1
+4 dr sedan	1468
+4D	2
+4DR	1
+4DS	3
+4DSD	16
+4whee	1
+72000	1
+985	1
+994	1
+99999	1
+A	1
+ABULA	1
+ACCES	4
+AM	460
+AMABU	1
+AMB	16
+AMBU	17
+AMBUL	304
+AMBULANCE	3786
+AMULA	1
+AMbul	1
+APORT	1
+APPOR	2
+APURP	1
+AR	81
+ARMOR	1
+ARMY	1
+Amb	1
+Ambu	1
+Ambul	66
+Ambulance	1006
+Armored Truck	145
+B5-44	1
+BA	9
+BACK	4
+BACKH	13
+BED T	1
+BICYC	1
+BICYCLE	34147
+BK	4
+BLOCK	1
+BLUE	1
+BOAT	2
+BOB C	1
+BOBCA	7
+BOOM	4
+BOOML	1
+BOX	3
+BOX T	32
+BOXTR	1
+BR	70
+BROOM	1
+BS	2
+BU	4298
+BUCKE	2
+BULLD	5
+BUS	26091
+BUs	2
+Backh	3
+Beverage Truck	130
+Bicyc	1
+Bike	6420
+Boom	2
+Box	1
+Box T	3
+Box Truck	11048
+Box t	3
+Bucke	1
+Budge	1
+Bulk Agriculture	29
+Bus	8274
+C-1	1
+C0MME	1
+C1	4
+CAB	1
+CABIN	1
+CAMP	2
+CAMPE	1
+CARGO	7
+CART	1
+CASE	2
+CAT	4
+CAT 4	1
+CAT P	1
+CATER	1
+CB	174
+CB534	1
+CEMEN	2
+CHART	1
+CHERR	1
+CHEVY	1
+CITY	1
+CM	106
+CMIX	3
+CMS-T	1
+CO	4
+COM	33
+COM T	2
+COM.	1
+COMB	1
+COMER	2
+COMM	1
+COMME	39
+COMMM	1
+COMPA	1
+CONCR	1
+CONST	12
+CONT	1
+CONV	669
+CONVE	1
+COUPE	1
+COURI	3
+CRANE	6
+CUSHM	1
+Car C	1
+Cargo	2
+Carri	2
+Carry All	773
+Cat	1
+Cat 9	1
+Cater	1
+Chassis Cab	353
+Chevr	1
+City	1
+Cmix	1
+Com t	1
+Comix	1
+Comm	1
+Comme	10
+Concrete Mixer	242
+Const	1
+Convertible	1486
+Crane	3
+D	1
+D1	1
+DELIV	48
+DELV	14
+DELV.	1
+DEMA-	1
+DEPT	1
+DIESE	2
+DIG-I	1
+DIRT	3
+DIRTB	2
+DOT #	1
+DOT R	1
+DP	753
+DS	2058
+DUMP	48
+DUMPS	3
+DUMPT	2
+DUNBA	1
+Deliv	4
+Delv	1
+Dump	1591
+Dumps	1
+E	1
+E AMB	1
+E BIK	5
+E COM	1
+E ONE	1
+E PAS	1
+E SCO	2
+E- Bi	1
+E-BIK	13
+E-Bik	4
+E-MOT	1
+E.M.S	1
+E/BIK	1
+E3	1
+E350	1
+EB	1
+EBIKE	5
+EC2	1
+ELEC.	1
+ELECT	50
+EMRGN	1
+EMS	2
+EMS A	2
+EMS B	1
+EMS H	1
+EN	2
+ENGIN	2
+EPO	1
+ESU T	2
+EXCAV	6
+EXPRE	1
+Elect	11
+Enclosed Body - Nonremovable Enclosure	1
+Enclosed Body - Removable Enclosure	2
+FARM	1
+FB	480
+FD LA	1
+FD NY	1
+FD TR	1
+FD tr	1
+FDNY	95
+FED E	3
+FEDEX	2
+FIRE	88
+FIRE TRUCK	1509
+FIRET	34
+FLAT	20
+FLATB	9
+FLEET	1
+FLTRL	1
+FOOD	6
+FORD	9
+FORK	17
+FORK-	1
+FORKL	55
+FORTL	1
+FR	61
+FRE	1
+FRE T	1
+FREE	1
+FREIG	18
+FRHT	2
+FRIEG	2
+FRONT	1
+FR`	1
+Fd fi	1
+Fdny	3
+Feder	1
+Fire	34
+Firet	4
+Flat Bed	992
+Flat Rack	157
+Food	1
+Ford	2
+Fork	5
+Forkl	10
+Freig	2
+G COM	3
+G OMR	1
+G PAS	1
+G Sem	1
+G TOW	1
+G1`	1
+GARAB	1
+GARBA	11
+GAS S	1
+GATOR	2
+GE/SC	1
+GEICO	1
+GG	404
+GLBEN	1
+GMC V	1
+GN	1
+GOLF	6
+GOV V	1
+GOV'T	1
+GOVER	6
+GR	3
+GRAY	2
+Garba	5
+Garbage or Refuse	955
+Gas T	1
+Glass Rack	6
+Golf	2
+Grain	3
+H/WH	1
+HAND	1
+HARVE	1
+HEAVY	1
+HELP	1
+HI-LO	1
+HIGHL	1
+HINO	6
+HO	3
+HOE-L	1
+HORSE	2
+HOTDO	1
+HWY C	1
+Hand	1
+Hopper	8
+Hrse	1
+Humme	1
+ICE C	1
+INTER	3
+IP	1
+Ice C	1
+Inter	1
+JCB40	1
+JLG B	1
+JOHN	1
+JOHND	1
+Jeep	1
+John	1
+JohnD	1
+KENWO	2
+LARGE COM VEH(6 OR MORE TIRES)	29016
+LD	1
+LF	30
+LG	1
+LIBER	1
+LIFT	1
+LIGHT	4
+LIMO	4
+LIMO/	1
+LIMOU	4
+LIVER	2
+LIVERY VEHICLE	19426
+LL	346
+LOADE	1
+LP	1
+LTRL	1
+LW	6
+Lift	1
+Lift Boom	81
+Light	1
+Limou	1
+Livestock Rack	10
+Log	3
+Lunch Wagon	15
+MAC T	1
+MACK	11
+MAIL	6
+MAN L	2
+MARK	1
+MAXIM	1
+MB	45
+MCY B	1
+MD	69
+ME/BE	1
+METAL	1
+MH	5
+MILLI	1
+MINI	6
+MINIV	1
+MK	5
+MOPD	2
+MOPED	27
+MOPET	1
+MOTOR	26
+MOTORCYCLE	13266
+MOVIN	1
+MS	79
+MTA B	14
+MTA C	1
+MTA T	1
+MTA b	1
+MV	2
+Mail	2
+Marke	1
+Mecha	1
+Mini	1
+Minibike	12
+Minicycle	11
+Mo pa	1
+Moped	201
+Motor	7
+Motor Home	1
+Motorbike	136
+Motorcycle	1960
+Motorized Home	13
+Motorscooter	232
+Movin	1
+Multi-Wheeled Vehicle	39
+N/A	5
+NA	2
+ND	1
+NEW Y	3
+NISSA	1
+NS AM	1
+NV150	1
+NYC	1
+NYC B	1
+NYC D	1
+NYC F	4
+NYC M	1
+NYC a	1
+NYCHA	1
+NYPD	6
+New Y	1
+OBJEC	1
+OFF R	1
+OIL T	3
+OLC	1
+OLM	1
+OML	2
+OML/	1
+OMNIB	5
+OMR	10
+OMT	4
+OP	6
+OTHER	51129
+Open Body	30
+Other	1
+P/SE	1
+P/SH	9
+PALLE	1
+PAS	28
+PASS	2
+PASSE	2
+PASSENGER VEHICLE	1346658
+PAYLO	1
+PC	5
+PCH	1
+PEDIC	3
+PEDICAB	158
+PICK-	7
+PICK-UP TRUCK	48403
+PICKU	10
+PISH	1
+PK	1243
+PKUP	1
+PL	9
+PM	10
+POIS	1
+POST	1
+POSTA	16
+POSTO	1
+POWER	23
+PSD	7
+PSR	1
+PU	1
+PUMP	1
+PUMPE	1
+Pallet	17
+Passe	1
+Pavin	1
+Pedicab	38
+Pick	5
+Pick-	1
+Pick-up Truck	12893
+Picku	3
+Pickup with mounted Camper	21
+Porta	1
+Posta	4
+R/V	2
+R/V C	1
+RD/S	2
+RED T	1
+REFG	8
+REFRI	3
+RENTA	2
+REP	3
+REPAI	1
+RESCU	2
+RF	127
+RGS	1
+RMP	2
+RMP V	1
+ROAD	1
+ROADS	1
+RUBBE	1
+RV	19
+RV/Tr	1
+RYDER	1
+Refrigerated Van	202
+Renta	1
+Rescu	1
+Road	3
+S/SP	1
+SAFET	1
+SANIT	15
+SBN	1
+SC	2
+SCHOO	48
+SCISS	1
+SCOO	1
+SCOOT	27
+SCOOTER	574
+SE	2
+SEA	1
+SEDAN	2
+SEGWA	1
+SELF	16
+SELF-	1
+SEMI	5
+SEMI-	5
+SHCOO	1
+SKATE	3
+SKID	1
+SMALL COM VEH(4 TIRES) 	30983
+SMART	1
+SNOW	1
+SP	34
+SPC	7
+SPORT UTILITY / STATION WAGON	602019
+SPRIN	7
+SS	1
+ST	27
+ST150	1
+STAK	7
+STATE	1
+STREE	16
+SUB	2
+SUBN/	1
+SUBUR	3
+SUDAN	1
+SUV	6
+SW	2
+SWEEP	2
+SWT	1
+SYBN	1
+Sanit	7
+Schoo	8
+School Bus	47
+Scoot	12
+Sedan	178638
+Self	1
+Semi	1
+Semi-	1
+Skate	1
+Small	1
+Smart	1
+Snow	1
+Snow Plow	30
+Spc	1
+Sprin	2
+Stake or Rack	57
+Station Wagon/Sport Utility Vehicle	143523
+Stree	4
+Subn	4
+Subur	1
+Sweep	1
+TAN P	1
+TANDU	1
+TANK	6
+TANKE	3
+TAXI	97791
+TCN	1
+TF	1
+TK	5329
+TL TR	1
+TLR	1
+TN	162
+TOW	7
+TOW T	41
+TOWER	2
+TOWTR	2
+TR	337
+TR/KI	1
+TRAC	15
+TRAC.	1
+TRACK	6
+TRACT	54
+TRAFF	1
+TRAIL	164
+TRAIN	1
+TRANS	4
+TRIAL	2
+TRK	8
+TRL	11
+TRLPM	1
+TRLR	3
+TRT	1
+TRUCK	152
+TT	237
+Tanker	347
+Taxi	19086
+Tlr	1
+Tow	4
+Tow T	5
+Tow Truck	13
+Tow Truck / Wrecker	510
+Tow t	4
+Tow-t	1
+Tr	1
+Trac	1
+Track	1
+Tract	13
+Tractor Truck Diesel	4731
+Tractor Truck Gasoline	690
+Trail	24
+Tram	1
+Trl	1
+Truck	10
+U-HAU	2
+U-Hau	4
+U.S.	1
+UD	1
+UHAUL	7
+UHUAL	1
+UKN	1
+UNK	19
+UNKNO	63
+UNKNOWN	105362
+UNKOW	2
+UNNKO	1
+UPS T	2
+UPS t	1
+US PO	7
+US Po	4
+USPOS	2
+USPS	57
+USPS2	1
+USPST	1
+UT	1
+UTIL	13
+UTILI	26
+UTLL	1
+UTV	1
+Uber	1
+Unk	2
+Unk,	1
+Unkn	1
+Unkno	9
+Unkow	1
+Us po	1
+Util	3
+Utili	5
+VAB	1
+VAN	52805
+VAN A	1
+VAN C	1
+VAN F	1
+VAN T	11
+VAN W	1
+VAN/B	1
+VAN/T	4
+VANG	1
+VAN`	1
+VAV	1
+VC	9
+VERIZ	1
+VN	1390
+VT	4
+Van	3622
+Van Camper	13
+Vanette	6
+Veriz	1
+WAGON	4
+WASTE	1
+WC	1
+WD	2
+WESCO	1
+WHBL	1
+WHEEL	1
+WHITE	7
+WINNE	1
+WORK	2
+WORKH	1
+Wagon	2
+Well Driller	7
+Wheel	1
+White	4
+Work	2
+YELLO	8
+acces	1
+amb	4
+ambu	14
+ambul	71
+anbul	1
+armor	2
+axo	1
+back	2
+backh	2
+bed	1
+bobca	3
+box	3
+box t	13
+boxtr	1
+bsd	2
+bulld	1
+bus	26
+car c	1
+cargo	1
+carri	1
+case	1
+cat 3	1
+cate	1
+cater	2
+cemen	2
+chevo	1
+city	1
+com	10
+comm	2
+comme	8
+const	2
+conta	1
+conv	1
+crane	2
+del	1
+deliv	10
+delv	5
+detac	1
+dirt	1
+dp	2
+dsny	3
+dump	9
+dumps	1
+e BIK	1
+e amb	1
+e bik	1
+e com	1
+e sco	1
+e-350	1
+e-bik	3
+east	1
+elect	12
+ems b	1
+f550	1
+fIRET	1
+fd tr	1
+fdny	14
+fedx	1
+fire	34
+firet	6
+flat	2
+flatb	1
+food	2
+foor	1
+ford	4
+fork	11
+forkl	12
+freig	5
+frieg	2
+front	2
+garba	15
+gator	1
+gokar	1
+golf	2
+gov v	1
+hi-lo	1
+hook	1
+horse	2
+house	1
+ice c	1
+icecr	1
+jeep	2
+ken	1
+ladde	1
+light	1
+limou	1
+mail	5
+mc	1
+mcy	1
+mecha	1
+miniv	1
+mopad	2
+moped	12
+mopet	1
+mot s	1
+moter	1
+motor	6
+mta	1
+mta b	3
+mtr s	1
+n/a	1
+nissa	1
+none	1
+nyc a	1
+nyc d	1
+nyc f	1
+oil t	1
+omni	1
+omnib	1
+omr	2
+omt	1
+other	3
+p/sh	3
+pOSTA	1
+pas	2
+passa	1
+passe	1
+paylo	1
+pick	18
+pick-	1
+picku	6
+plow	1
+posta	10
+power	7
+push	1
+ram	1
+rd/s	1
+red t	1
+red,	1
+refg	1
+rmb	1
+rmp	1
+rv	4
+sanit	8
+santa	1
+scaff	1
+scava	1
+schoo	16
+sciss	1
+scl	1
+scoot	16
+seagr	1
+sedan	3
+self	3
+semi	6
+semi-	3
+sgws	1
+small	1
+spc p	1
+spec	1
+sprin	1
+stree	7
+subn	10
+subur	2
+sweep	1
+tank	6
+taxi	1
+te	1
+tk	5
+tour	1
+tow	9
+tow t	6
+tr	1
+trac	1
+track	1
+tract	19
+trail	61
+trash	1
+trk	2
+trl	3
+trlr	2
+truck	28
+u.s p	1
+uhaul	1
+ulili	1
+uliti	1
+unk	17
+unkno	15
+ups t	1
+us ma	1
+us po	3
+usps	7
+util	2
+utili	10
+utlit	1
+van	266
+van c	1
+van t	1
+vol	1
+wagon	1
+white	3
+winne	1
+work	1
+yello	2
+omm	1
