@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Weather</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet"
+	href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
+	integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm"
+	crossorigin="anonymous">
+<!-- <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-datetimepicker/4.17.47/css/bootstrap-datetimepicker.min.css"> -->
+
+
+<link href="css/mainstyle.css" rel="stylesheet" />
+
+</head>
+<body>
+
+
+	<div class="container-fluid bg-3 text-center">
+		<div class="row" id=jumb>
+			<div class='col-sm-3'></div>
+			<div class='col-sm-6'>
+				<h1 style="color: #f8e0e0bd!important;">Welcome to Online Weather Forecast</h1>
+				<h6 style="color: #f8e0e0bd!important;">Please select a date to forecast</h6>
+				
+			</div>
+			<div class='col-sm-3'></div>
+		</div>
+
+
+		<div class="row">
+			<div class='col-sm-3'></div>
+			<div class='col-sm-6'>
+				<div class="input-group mb-3">
+					<input id="forDate" type="date" class="form-control"
+						placeholder="Select a date in mm/dd/yyyy format">
+					<div class="input-group-append">
+						<button class="btn btn-primary btn-cus" id="pred" type="button">Predict</button>
+					</div>
+				</div>
+			</div>
+			<div class='col-sm-3'></div>
+
+		</div>
+
+
+		<div class="container-fluid" id="cusBlk">
+			<div class="row">
+				<div class="col-sm-2"></div>
+				<div class="col-sm-8 head1">
+					<h4 style="color: #f8e0e0bd!important;">Custom Forecast</h4>
+				</div>
+				<div class="col-sm-2"></div>
+			</div>
+
+			<div class="row">
+				<div class="col-sm-2"></div>
+				<div class="col-sm-2 fir"><h5 id="cusDat1"></h5><h6 id="cusmax1"></h6><h6 id="cusmin1"></h6></div>
+				<div class="col-sm-1 sec"><h6 id="cusDat2"></h6><h6 id="cusmax2"></h6><h6 id="cusmin2"></h6></div>
+				<div class="col-sm-1 fir"><h6 id="cusDat3"></h6><h6 id="cusmax3"></h6><h6 id="cusmin3"></h6></div>
+				<div class="col-sm-1 sec"><h6 id="cusDat4"></h6><h6 id="cusmax4"></h6><h6 id="cusmin4"></h6></div>
+				<div class="col-sm-1 fir"><h6 id="cusDat5"></h6><h6 id="cusmax5"></h6><h6 id="cusmin5"></h6></div>
+				<div class="col-sm-1 sec"><h6 id="cusDat6"></h6><h6 id="cusmax6"></h6><h6 id="cusmin6"></h6></div>
+				<div class="col-sm-1 fir"><h6 id="cusDat7"></h6><h6 id="cusmax7"></h6><h6 id="cusmin7"></h6></div>
+				<div class="col-sm-2"></div>
+			</div>
+		</div>
+		
+		
+		<div class="container-fluid" id="ncusBlk">
+			<div class="row">
+				<div class="col-sm-2"></div>
+				<div class="col-sm-8 head1">
+					<h4 style="color: #f8e0e0bd!important;">Third Party Forecast(Dark Sky)</h4>
+				</div>
+				<div class="col-sm-2"></div>
+			</div>
+
+			<div class="row">
+				<div class="col-sm-2"></div>
+				<div class="col-sm-2 fir"><h5 id="ncusDat1"></h5><h6 id="ncusmax1"></h6><h6 id="ncusmin1"></h6></div>
+				<div class="col-sm-1 sec"><h6 id="ncusDat2"></h6><h6 id="ncusmax2"></h6><h6 id="ncusmin2"></h6></div>
+				<div class="col-sm-1 fir"><h6 id="ncusDat3"></h6><h6 id="ncusmax3"></h6><h6 id="ncusmin3"></h6></div>
+				<div class="col-sm-1 sec"><h6 id="ncusDat4"></h6><h6 id="ncusmax4"></h6><h6 id="ncusmin4"></h6></div>
+				<div class="col-sm-1 fir"><h6 id="ncusDat5"></h6><h6 id="ncusmax5"></h6><h6 id="ncusmin5"></h6></div>
+				<div class="col-sm-1 sec"><h6 id="ncusDat6"></h6><h6 id="ncusmax6"></h6><h6 id="ncusmin6"></h6></div>
+				<div class="col-sm-1 fir"><h6 id="ncusDat7"></h6><h6 id="ncusmax7"></h6><h6 id="ncusmin7"></h6></div>
+				<div class="col-sm-2"></div>
+			</div>
+		</div>
+		
+						
+		
+	</div>
+	<br>
+
+	<br>
+	<br>
+
+	<footer class="container-fluid text-center">
+		<p>Thanks for visiting -sskrishn.</p>
+	</footer>
+
+</body>
+ <script src="https://code.jquery.com/jquery-3.2.1.js"
+     integrity="sha256-DZAnKJ/6XZ9si04Hgrsxu/8s717jcIzLy3oi35EouyE="
+     crossorigin="anonymous"></script>
+
+<script
+	src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"
+	integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q"
+	crossorigin="anonymous"></script>
+<script
+	src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"
+	integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl"
+	crossorigin="anonymous"></script>
+<!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-datetimepicker/4.17.47/js/bootstrap-datetimepicker.min.js"></script>
+
+   <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.24.0/moment.min.js"></script> -->
+   		<script src='https://cdnjs.cloudflare.com/ajax/libs/skycons/1396634940/skycons.min.js'></script>
+   
+   <script src="js/myscript.js"></script>
+</html>
