@@ -1,0 +1,38 @@
+version: '3'
+services:
+  nginx:
+   container_name: some-nginx
+   image: nginx:1.13
+   restart: always
+   ports:
+   - 80:80
+   - 443:443
+   volumes:
+   - ./nginx/conf.d:/etc/nginx/conf.d
+   depends_on:
+   - app
+  mysql:
+   container_name: some-mysql
+   image: mysql/mysql-server:5.7
+   environment:
+    MYSQL_ROOT_PASSWORD: sairam
+    MYSQL_ROOT_HOST: '%'
+   command: mysqld --sql_mode=""
+   volumes:
+   - ./db/:/docker-entrypoint-initdb.d/
+   ports:
+   - "3306:3306"
+   restart: always
+
+  app:
+    restart: always
+    build: ./WeatherPredictRestAPI
+    working_dir: /WeatherPredictRestAPI
+    volumes:
+      - ./WeatherPredictRestAPI:/WeatherPredictRestAPI
+      - ./.m2:/root/.m2
+    expose:
+      - "8080"
+    command: mvn clean spring-boot:run
+    depends_on:
+      - mysql

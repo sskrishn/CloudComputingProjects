@@ -1,0 +1,58 @@
+h2{
+	color:#dd7127;
+}
+
+
+#jumb{
+    color: white;
+    padding-top: 4%;
+    padding-bottom: 1%;
+}
+
+body  {
+	  background-position: top;
+	  background-image: url("../images/bkg2.jpg");
+	  background-color: #cccccc;
+	}
+	footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    color:white;
+    height: 5%;
+    background-color: #9f89961f!important;
+    
+    padding: 0.5% !important
+}
+
+.btn-default{
+	width:100%!important
+}
+.cus{
+	padding:0.1%!important
+}
+
+.fir {
+    height: 100px;
+    /* line-height: 36px; */
+    color: white;
+    text-align: center;
+    background: rgba(48, 106, 147, 0.42);
+}
+.sec{
+     height: 100px;
+     /* line-height: 36px; */
+     color: white;
+     text-align: center;
+     background: rgba(125, 196, 246, 0.42);
+}
+
+.head1 {
+    color: ghostwhite;
+    height: 35px;
+    line-height: 30px;
+    /* font-size: 20px; */
+    font-style: bold;
+    background: #9f899666!important;
+}
+

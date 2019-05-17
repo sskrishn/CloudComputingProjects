@@ -1,0 +1,9 @@
+com/weather/rest/swagger/SwaggerConfig.class
+com/weather/rest/WeatherPredictRestApiApplication.class
+com/weather/rest/repository/WeatherDateRepository.class
+com/weather/rest/controller/IndexController.class
+com/weather/rest/controller/WeatherDateController.class
+com/weather/rest/swagger/ApiDocumentationConfig.class
+com/weather/rest/model/WeatherDate.class
+com/weather/rest/exception/ErrorMessageException.class
+com/weather/rest/exception/ResourceNotFoundException.class
