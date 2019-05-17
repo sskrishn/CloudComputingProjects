@@ -1,0 +1,42 @@
+h2{
+	color:#dd7127;
+}
+h4{
+	color:#DD2727;
+}@charset "ISO-8859-1";
+
+#jumb{
+    color: white;
+    padding-top: 4%;
+    padding-bottom: 1%;
+}
+
+body  {
+	  background-position: top;
+	  background-image: url("../images/bkg.jpg");
+	  background-color: #cccccc;
+	}
+	footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    color:white;
+    height: 5%;
+    background-color: #393939!important;
+    
+    padding: 0.5% !important
+}
+
+.btn-default{
+	width:100%!important
+}
+.cus{
+	padding:0.1%!important
+}
+
+
+#rs{
+    color: green;
+    font-size: xx-large;
+}
+
